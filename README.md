@@ -83,15 +83,6 @@ http://localhost:8080/register
 
 ---
 
-## 📸 Screenshots (Optional for README)
-
-👉 You can add screenshots here, for example:  
-
-- Registration Form  
-- Validation Errors Example  
-- Success Page  
-
----
 
 ## 🚀 Future Enhancements
 
@@ -110,8 +101,3 @@ http://localhost:8080/register
 4. Push to the branch  
 5. Open a Pull Request  
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
